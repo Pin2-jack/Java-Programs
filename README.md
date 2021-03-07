@@ -1,7 +1,8 @@
 # Birthday-Information
 
-To keep this program simple, we will calculate birthday information ONLY for this year.1  
-Goals•To modify the class in an existing program.
+We will calculate birthday information ONLY for this year.
+1 Goals
+•To modify the class in an existing program.
 •To use Strings, integers, and arrays.
 •To learn about public, private, static, and final.
 •To use private class members with accessors.
