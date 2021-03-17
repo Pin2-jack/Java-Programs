@@ -14,4 +14,4 @@ InstructionsStart with the Birthday program discussed in class and available on 
 •Change the CalculateDay function to initialize the number of the month after it searches forthe month-string.
 •Add a public static final array of integers for the number of days in each month.
 •Write a function that will use the new array and data member to calculate the day of theyear.•Be sure you test January 1 and December 31.
-•Sample output:Birthday Day Calculator, Welcome!Months are: Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  DecPlease enter your birth month and date:May 20Your May 20 birthday is on Wednesday this yearit is day 140 of the year
+•Sample output:Birthday Day Calculator, Welcome!Months are: Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  DecPlease enter your birth month and date:May 20Your May 20 birthday is on Wednesday this yearit is day 140 of the year.
